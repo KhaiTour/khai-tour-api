@@ -64,3 +64,4 @@ node_modules/
 
 # dotenv environment variables file
 .env
+khai-tour-api/package-lock.json
